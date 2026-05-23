@@ -1,0 +1,10 @@
+{
+  "name": "audrey-evans-official-revvel-baseline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root baseline scripts for revvel-standards validation",
+  "scripts": {
+    "test": "node scripts/test-baseline.js",
+    "build": "node scripts/build-baseline.js"
+  }
+}

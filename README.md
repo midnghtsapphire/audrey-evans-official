@@ -4,6 +4,19 @@
 
 ---
 
+## Revvel-Standards Baseline
+
+- CHANGELOG: [CHANGELOG.md](./CHANGELOG.md)
+- Deployment guide: [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md)
+- Go-to-market plan: [GO_TO_MARKET.md](./GO_TO_MARKET.md)
+- Brand guidelines: [BRAND_GUIDELINES.md](./BRAND_GUIDELINES.md)
+- Security policy: [SECURITY.md](./SECURITY.md)
+- Baseline scripts: [`scripts/test-baseline.js`](./scripts/test-baseline.js), [`scripts/build-baseline.js`](./scripts/build-baseline.js)
+
+**Website in test (Vercel target):** https://audrey-evans-official.vercel.app
+
+---
+
 ## The 8 Mandatory Standards
 
 Every app that rolls off this assembly line has ALL of these built in automatically. No exceptions.
