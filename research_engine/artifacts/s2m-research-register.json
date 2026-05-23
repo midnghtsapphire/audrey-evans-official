@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "items": [
+    {
+      "id": "RS-001",
+      "title": "Green AI infra optimization bundle",
+      "status": "backlog",
+      "domain": "Green AI Infrastructure",
+      "priority": "high",
+      "owner": "unassigned",
+      "artifacts": {
+        "brief": "research-brief-template.md",
+        "scorecard": "intervention-scorecard-template.csv"
+      }
+    }
+  ]
+}
