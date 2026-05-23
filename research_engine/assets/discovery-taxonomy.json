@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "domains": [
+    {
+      "name": "Emerging Energy Modules",
+      "areas": [
+        "heat-pumps",
+        "solar-pv",
+        "micro-hydro",
+        "battery-storage",
+        "district-energy"
+      ]
+    },
+    {
+      "name": "Green AI Infrastructure",
+      "areas": [
+        "carbon-aware-scheduling",
+        "efficient-model-routing",
+        "server-farm-heat-reuse",
+        "edge-inference-optimization"
+      ]
+    },
+    {
+      "name": "Water & Built Environment",
+      "areas": [
+        "atmospheric-water-generation",
+        "greywater-reuse",
+        "rooftop-gardens",
+        "high-performance-envelope"
+      ]
+    },
+    {
+      "name": "Creative Integrated Options",
+      "areas": [
+        "hybrid-revenue-products",
+        "community-partnership-programs",
+        "experience-led-conversion-loops"
+      ]
+    }
+  ],
+  "decisionCriteria": [
+    "market-demand",
+    "implementation-feasibility",
+    "regulatory-risk",
+    "operating-margin-impact",
+    "carbon-reduction-impact",
+    "time-to-market"
+  ]
+}

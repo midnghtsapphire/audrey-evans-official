@@ -12,6 +12,12 @@ const requiredFiles = [
   'package.json',
   path.join('scripts', 'test-baseline.js'),
   path.join('scripts', 'build-baseline.js'),
+  path.join('research_engine', 'README.md'),
+  path.join('research_engine', 'assets', 'discovery-taxonomy.json'),
+  path.join('research_engine', 'assets', 'source-catalog.csv'),
+  path.join('research_engine', 'artifacts', 'research-brief-template.md'),
+  path.join('research_engine', 'artifacts', 'intervention-scorecard-template.csv'),
+  path.join('research_engine', 'artifacts', 's2m-research-register.json'),
   path.join('frontend', 'package.json'),
   path.join('backend', 'requirements.txt')
 ];

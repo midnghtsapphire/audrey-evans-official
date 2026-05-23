@@ -1,0 +1,2 @@
+opportunity_id,opportunity_name,market_demand,implementation_feasibility,regulatory_risk,margin_impact,carbon_impact,time_to_market,weighted_score,recommendation
+OPP-001,Example Opportunity,0,0,0,0,0,0,0,replace_with_decision

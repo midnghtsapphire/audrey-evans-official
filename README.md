@@ -12,6 +12,7 @@
 - Brand guidelines: [BRAND_GUIDELINES.md](./BRAND_GUIDELINES.md)
 - Security policy: [SECURITY.md](./SECURITY.md)
 - Baseline scripts: [`scripts/test-baseline.js`](./scripts/test-baseline.js), [`scripts/build-baseline.js`](./scripts/build-baseline.js)
+- Research engine assets & artifacts: [`research_engine/`](./research_engine/)
 
 **Website in test (Vercel target):** https://audrey-evans-official.vercel.app
 
