@@ -1,5 +1,9 @@
 # Audrey Evans Official / GlowStarLabs Platform
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 **Production-ready, deployable application suite** built with the 8 Mandatory Audrey Evans Official Standards.
 
 ---
